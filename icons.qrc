@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/file">
+        <file>icons/administration.png</file>
+        <file>icons/Alarm.png</file>
+        <file>icons/business.png</file>
+        <file>icons/find.png</file>
+        <file>icons/flow.png</file>
+        <file>icons/group.png</file>
+        <file>icons/help.png</file>
+        <file>icons/history.png</file>
+        <file>icons/log.png</file>
+        <file>icons/login.png</file>
+        <file>icons/logo.png</file>
+        <file>icons/Parameter.png</file>
+        <file>icons/print.png</file>
+        <file>icons/report.png</file>
+        <file>icons/system.png</file>
+        <file>icons/Trend.png</file>
+        <file>icons/megaphone.png</file>
+    </qresource>
+</RCC>
